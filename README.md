@@ -60,13 +60,6 @@ It integrates **QuantixCloud**, a **local API**, and **advanced automation tools
 
 ---
 
-### ⚙️ Local API
-- Full local control over launcher
-- Build custom tools and automation
-- Extend functionality easily
-
----
-
 ### 🧠 Xeno Functions
 - Built-in execution functions
 - Optimised for performance
@@ -104,38 +97,16 @@ It integrates **QuantixCloud**, a **local API**, and **advanced automation tools
 ### 🔔 Updates
 - Auto update notifications
 - Always stay up to date
-
----
-
-## 📦 Installation
-
-```bash
-git clone https://github.com/angussaw4134/mutiple-roblox-launcher.git
-cd mutiple-roblox-launcher
-npm install
-npm start
-```
-
 ---
 
 ## 🧩 Usage
 
 1. Open QuantixLauncher  
-2. Connect QuantixCloud (optional)  
-3. Import accounts  
-4. Search or select a game  
-5. Launch multiple instances  
+2. add a account or use QuantixCloud
+3. Select account
+4. Search a game
+5. Launch multiple instances Or single 
 6. Control via UI or API  
-
----
-
-## 🔌 Local API
-
-```bash
-GET /instances
-POST /launch
-POST /import-cookies
-```
 
 ---
 
@@ -158,11 +129,8 @@ This project is for educational purposes only.
 
 ---
 
-## 🤝 Contributing
-
-1. Fork  
-2. Create branch  
-3. Submit PR  
+## 🤝 Ideas
+api.quantixalts.com/ideas (soon)
 
 ---
 
@@ -175,3 +143,5 @@ MIT License
 ## 💡 Quantix
 
 Built under the Quantix ecosystem — automation, tools, and scalable systems.
+
+NOT AFFILATED WITH ROBLOX IN ANYWAY
